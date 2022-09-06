@@ -1,0 +1,52 @@
+.input-style{
+    width: 200px;
+    padding: 10px;
+}
+.btnPlus{
+    width: 70px;
+    padding: 10px;
+    margin-left: 7px;
+    background-color: rgb(107, 134, 107);
+    color: white;
+    border-radius: 5px;
+    border: none;
+
+}
+.Box{
+  background-image: url("../Assets/2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  color: wheat;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  
+ 
+  /* border-radius: 5px; */
+}
+
+
+.input-style{
+    margin-top: 2rem;
+    padding-left: 7px;
+   margin-left: 7px;
+   border: none;
+   border-radius: 5px;
+}
+.task{
+   
+    border: 7px rgb(164, 147, 173) double;
+    width: 250px;
+    height: 100px;
+    color: white;
+    background-color: rgb(99, 154, 104);
+    margin-top: 10px;
+    border-radius: 7px;
+    font-size: small;
+    
+    
+   
+}
